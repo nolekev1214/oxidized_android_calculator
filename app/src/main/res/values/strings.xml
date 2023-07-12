@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="first_operand">First Operand</string>
+    <string name="second_operand">Second Operand</string>
+</resources>
