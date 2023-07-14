@@ -8,3 +8,7 @@ IDK, just use Android Studio and hit build
 
 ### Rust
 Navigate to `app\src\main\rust` and use the command `cargo ndk -t aarch64-linux-android -t armv7-linux-androideabi -t x86_64-linux-android -t i686-linux-android -o./../jniLibs/ build`
+
+
+# Project Status
+Completed
